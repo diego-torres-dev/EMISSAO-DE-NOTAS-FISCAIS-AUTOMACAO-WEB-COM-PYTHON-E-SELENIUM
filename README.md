@@ -19,5 +19,6 @@ Este notebook apresenta um processo de automação de emissão de notas fiscais 
 Para desenvolver esta automação, usei os seguintes módulos:
 
 - os
+- pandas
 - selenium
 - webdriver_manager
